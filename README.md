@@ -2,6 +2,13 @@
 <img align="top" width=175 src="Documentation/Logo/Marlin%20Logo%20GitHub.png" />
  Additional documentation can be found in [our wiki](https://github.com/MarlinFirmware/Marlin/wiki/Main-Page).
 
+This is a modified Marlin for the BQ Hephestos 2:
+- modified pinout (heated bed works perfectly)
+- extruder fan allways on
+- correct thermistor table for the stock extruder thermistor
+- lcd, sdcard, autoleveling...
+- the config is almost identical to the stock one with a few tweaks here and there
+
 ## Release Candidate -- Marlin 1.1.0-RC3 - 01 December 2015
 
 __Not for production use – use with caution!__
